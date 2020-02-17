@@ -48,19 +48,35 @@
     21. How do we select a p element with a single class of “human””?
         .human, p { }
     22. What is a parent child selector? When would this be useful? 
+        The parent child selector is when you select the child of the parent to change element to.
+         It would be useful only when you want to select an all of the same elements under one group.
+         For example selecting all p under div. 
     23. How do you select all links within a div with the class of sidebar?
+          div .sidebar { }
     24. What is a pseudo selector?
+           pseudo selector is used to style elements individually.
     25. What do we use the change the spacing between lines?
+         you use line-height: ;
     26. What do we use to change the spacing between letters?
+          letter-spacing: ;
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+        text-transform: capitalize;   text-transform: lowercase; text-transform: uppercase;
     28. How do I add a 1px border around my div that is dotted and black?
+        border: 1px dotted #000000;
     29. How do I select everything on the page? 
+            you use the universal selector *
     30. How do I write a comment in CSS?
+            /*  */
     31. How do I find out what file I am in, when I am using the command line? 
+        pwd
     32. Using the command line - how do I see a list of files/folders in my current folder?
+        ls 
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+       rm <file> you have to be careful because it will permanently
     34. Why should I use version control? 
+      so you and your teammates can work together on the project at the same time.
     35. How often should I commit to github?
+       every couple hours
     36. What is the command we would use to push our repo up to github? 
     37. Walk me through Lambda's git flow. 
 
