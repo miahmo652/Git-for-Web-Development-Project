@@ -78,7 +78,7 @@
     35. How often should I commit to github?
        every couple hours
     36. What is the command we would use to push our repo up to github? 
-        
+        git push
     37. Walk me through Lambda's git flow. 
 
 Stretch Questions
